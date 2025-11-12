@@ -1,3 +1,6 @@
 KalshiData/.env.env
 *.csv
 test_closed.py
+.env
+*.csv
+test_closed.py
