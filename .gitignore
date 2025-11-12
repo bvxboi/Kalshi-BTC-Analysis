@@ -1,0 +1,3 @@
+KalshiData/.env.env
+*.csv
+test_closed.py
